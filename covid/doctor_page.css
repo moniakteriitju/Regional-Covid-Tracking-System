@@ -1,0 +1,30 @@
+.tb1 {
+    border: 1px solid red;
+    background-color:whitesmoke;
+    padding: 25px;
+   
+    color:blue;
+    border-radius: 15px;
+  
+  }
+  .home{
+    border-radius: 25px;
+    background-color:blue;
+    color:antiquewhite;
+
+  }
+  qq{
+    align-content:center;
+    width:50%;
+    padding:25px;
+  }
+  .bb
+  {
+    border: 1px solid red;
+    background-color:whitesmoke;
+    padding: 25px;
+    align-items:center;
+   
+    color:blue;
+    border-radius: 25px;
+  }

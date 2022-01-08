@@ -1,0 +1,27 @@
+.p1{
+   font-size:larger;
+   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   text-align:"center";
+}
+.p2{
+    background-color:aliceblue;
+    border-radius:25px;
+    align-content:center;
+    width:50%;
+    padding:25px;
+    margin: auto;
+    text-align:center;
+}
+.p3{
+    align-content:center;
+    width:90%;
+}
+.p4{
+  
+    width: 90%;
+    margin: auto;
+    padding:20;
+}
+.p5{
+    border:2px rgb(243, 6, 6) solid;
+}
